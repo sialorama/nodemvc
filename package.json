@@ -1,0 +1,16 @@
+{
+  "name": "nodemvc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  },
+  "author": "sialorama",
+  "license": "MIT"
+  
+}
